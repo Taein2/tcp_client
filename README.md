@@ -1,3 +1,5 @@
-python - socket connection
-
-TCP Client
+#socket connection
+------------------------------------------------------------------
+UNIX Python ver 2.7
+TCP Client Concurrent 병행 클라이언트
+------------------------------------------------------------------
